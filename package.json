@@ -1,7 +1,7 @@
 {
   "name": "express-passport-oauth",
   "version": "1.0.0",
-  "description": "",
+  "description": "http://express-passport-oauth.herokuapp.com/",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
